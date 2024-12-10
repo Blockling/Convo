@@ -1,0 +1,1 @@
+Hashcode auf nachricht -> Nachricht verschlüsseln -> Nachricht gesendet + Hash -> Nachricht + Hash empfangen -> Nachricht entschlüsseln -> Hash vergleichen
